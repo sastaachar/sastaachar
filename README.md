@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![sasta_Achar](https://github.com/sastaachar/sastaachar/blob/a5afcca9c5558374e7b3a693a696079062ee6cce/assets/sastaAchar.gif)
+
 <!--
 **sastaachar/sastaachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
