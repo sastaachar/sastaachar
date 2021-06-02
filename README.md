@@ -1,4 +1,5 @@
-### Hey there i am ![text](https://user-images.githubusercontent.com/42416647/120512211-c3382e00-c3e8-11eb-9454-3d73039012f9.gif)
+### Hey there i am ![sasta_achar_github_text](https://user-images.githubusercontent.com/42416647/120513427-e8796c00-c3e9-11eb-83f1-8c9635e2cd4c.gif)
+
 
 
 <a href="https://www.linkedin.com/in/justinjmathew/">
