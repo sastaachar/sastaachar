@@ -1,4 +1,5 @@
-### Hey there i am ![sasta_achar_github_text](https://user-images.githubusercontent.com/42416647/120513427-e8796c00-c3e9-11eb-83f1-8c9635e2cd4c.gif)
+### Hey there i am ![sasta_achar_github_text-2](https://user-images.githubusercontent.com/42416647/120513694-27a7bd00-c3ea-11eb-812f-4fe6b61c96d6.gif)
+
 
 
 
