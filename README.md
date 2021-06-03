@@ -25,7 +25,7 @@ Ping me about anything related to web dev 😀.
 
 <br>
 
-## Checkout my latest project : 
+## 🤩 Checkout my latest project : 
 
 [**Graphene :**](https://sastaachar.github.io/graphene/) It is a Visualizer for graph algorithms that i am currently working on.
 <br>
