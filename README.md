@@ -13,5 +13,5 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
 
