@@ -5,6 +5,8 @@ I'm a Full Stack Developer and Competitive Pogrammer from India <img height="20p
 <br>
 Ping me about anything related to web dev 😀.
 
+<br>
+
 ## 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -33,7 +35,7 @@ Ping me about anything related to web dev 😀.
 <br>
 <img height="400px"  src="https://user-images.githubusercontent.com/42416647/120607928-4354a700-c46e-11eb-8c78-4c9c3c51ff8e.gif">
 
-
+<br>
 
 ## 📈 My GitHub Stats
 
