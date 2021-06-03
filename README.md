@@ -14,7 +14,7 @@ Having fun with these tools :
 
 📈 My GitHub Stats
 
-<p style="display:inline-block;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sastaachar&hide=TeX&layout=compact&theme=radical" alt="sasta_achar's Github stats" />
-<p style="display:inline-block;"> <img src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
+<a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sastaachar&hide=TeX&layout=compact&theme=radical" alt="sasta_achar's Github stats" />
+<a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
 
 
