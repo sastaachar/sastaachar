@@ -12,4 +12,6 @@
 ![visitors](https://page-views.glitch.me/badge?page_id=page.id)
 
 📈 My GitHub Stats
-https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
+
