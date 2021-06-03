@@ -15,6 +15,6 @@ Having fun with these tools :
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sastaachar&hide=TeX&layout=compact&theme=radical" alt="sasta_achar's Github stats" />
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sastaachar&count_private=true&show_icons=true&theme=radical" alt="sasta_achar's Github stats" />
 
 
