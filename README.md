@@ -27,7 +27,16 @@ Ping me about anything related to web dev 😀.
 
 <br>
 
-## 🤩 Checkout my latest project : 
+## 🤩 Checkout my latest projects : 
+
+[**Boids :**](https://sastaachar.github.io/Boids/) It is a simulation of [boids](https://en.wikipedia.org/wiki/Boids).
+<br>
+**Tools used :** ThreeJS
+<br>
+<img height="400px" src="https://user-images.githubusercontent.com/42416647/143473492-8b8a2726-136b-451e-b7b8-0c2715428caa.gif">
+
+<br>
+
 
 [**Graphene :**](https://sastaachar.github.io/graphene/) It is a Visualizer for graph algorithms that i am currently working on.
 <br>
