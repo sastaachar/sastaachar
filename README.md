@@ -1,9 +1,9 @@
 ### ![github_profile_text](https://user-images.githubusercontent.com/42416647/120591178-5b6dfb80-c459-11eb-851a-793be2cea6a9.gif)
 ![visitors](https://page-views.glitch.me/badge?page_id=sastaachar.sastaachar)
 
-🧑‍💻 Backend Developer | Competitive Programmer 🚀
+<h3>🧑‍💻 Backend Developer | Competitive Programmer 🚀</h3>
 
-I'm a Full Stack Developer and Competitive Pogrammer from India <img height="20px" src="https://user-images.githubusercontent.com/42416647/120605375-9aa54800-c46b-11eb-85b9-e3d9a033e925.png" />. I mainly code in Python and TypeScript and use c++ for competitive programming. I love working with react, but i'am hoping to learn new tools. 
+I'm a Full Stack Developer and Competitive Pogrammer from India <img height="20px" src="https://user-images.githubusercontent.com/42416647/120605375-9aa54800-c46b-11eb-85b9-e3d9a033e925.png" />. I mainly code in JavaScript, Python, TypeScript and use c++ for competitive programming. I love working with react and i'am also learning new tools to add to my toolkit :p . 
 <br>
 Ping me about anything related to web dev 😀.
 
