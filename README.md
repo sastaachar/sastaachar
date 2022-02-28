@@ -3,7 +3,7 @@
 
 <h3>🧑‍💻 Backend Developer | Competitive Programmer 🚀</h3>
 
-I'm a Full Stack Developer and Competitive Pogrammer from India <img height="20px" src="https://user-images.githubusercontent.com/42416647/120605375-9aa54800-c46b-11eb-85b9-e3d9a033e925.png" />. I mainly code in JavaScript, Python, TypeScript and use c++ for competitive programming. I love working with react and i'am also learning new tools to add to my toolkit :p . 
+I'm a Full Stack Developer and Competitive Pogrammer from India <img height="20px" src="https://user-images.githubusercontent.com/42416647/120605375-9aa54800-c46b-11eb-85b9-e3d9a033e925.png" />. I mainly code in JavaScript, Python, TypeScript and use c++ for competitive programming. I love working with react and I'am also learning new tools to add to my toolkit 😃 . 
 <br>
 Ping me about anything related to web dev 😀.
 
